@@ -18,7 +18,7 @@ The data we provide is collected from [Disease.sh](https://disease.sh/).
 
 ## 📸 Screenshots
 <div style="background-color:rgb(169,169,169); text-align:center">
-<img src="images\Screenshot_1669964462.png" width="300" style="border-radius: 15px">
+<img src="images\Screenshot_1669965479.png" width="300" style="border-radius: 15px">
 &nbsp;
 <img src="images\Screenshot_1669964463.png" width="300" style="border-radius: 15px">
 </div>
